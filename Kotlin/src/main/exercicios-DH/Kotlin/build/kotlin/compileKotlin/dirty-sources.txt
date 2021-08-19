@@ -1,0 +1,5 @@
+C:\Users\brutu\OneDrive\Área de Trabalho\exercicios-DH\Kotlin\src\main\kotlin\ex\ KT 4\Ex. contar numero.kt
+C:\Users\brutu\OneDrive\Área de Trabalho\exercicios-DH\Kotlin\src\main\kotlin\ex\ KT 1\Ex. trazer o maior.kt
+C:\Users\brutu\OneDrive\Área de Trabalho\exercicios-DH\Kotlin\src\main\kotlin\ex\KT 3\EX. analizar numero.kt
+C:\Users\brutu\OneDrive\Área de Trabalho\exercicios-DH\Kotlin\src\main\kotlin\Inicio\Ola mundo.kt
+C:\Users\brutu\OneDrive\Área de Trabalho\exercicios-DH\Kotlin\src\main\kotlin\ex\ KT 2\Ex. Verdadeiro ou falso.kt
